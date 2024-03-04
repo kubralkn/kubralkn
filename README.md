@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm learning full-stack software<br>👩‍💻 I’m currently working on JavaScript<br>🌎Web Development<br><br>
+Hi there🖐<br>I'm learning full-stack software<br> I’m currently working on JavaScript<br>Web Development<br><br>
 
 
 ## 🌐 Socials:
