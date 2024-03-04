@@ -1,5 +1,5 @@
 # Hi there🖐 My name is Kübra Alkan:
-I am 21 years old and i live in Turkey. I am very new here but i am working hard for my goals. I hope you like my projects. I am waiting for your support😊<br><br>|   I'm learning full-stack software<br>|   I’m currently working on JavaScripta and Designer<br>|   Web Development<br>|   You can contact me kubralkan5@gmail.com<br><br>
+I am 21 years old and i live in Turkey. I am very new here but i am working hard for my goals. I hope you like my projects. I am waiting for your support😊<br><br>  🧠 I'm learning full-stack software<br>|  💻 I’m currently working on JavaScript and design<br>|👩‍💻   Web Development<br>| ✉  You can contact me kubralkan5@gmail.com<br><br>
 
 
 ## 🌐 Socials:
