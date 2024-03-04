@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there🖐<br>I'm learning full-stack software<br> I’m currently working on JavaScript<br>Web Development<br><br>
+Hi there🖐I'm Kübra Alkan<br>I'm learning full-stack software<br> I’m currently working on JavaScript<br>Web Development<br><br>
 
 
 ## 🌐 Socials:
