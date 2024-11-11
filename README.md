@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kübra</h1>
-<h3 align="center">As an Ecole 42 student, I am advancing in the field of software development.</h3>
+<h3 align="center">As an Ecole 42 student, I am advancing in the field of software development. While I spend most of my time creating projects in C, I also devote some of my time to frontend development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kübra alkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kübra alkan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kübra alkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[kübra alkan](https://www.linkedin.com/in/k%C3%BCbra-alkan-7006832b1)" height="30" width="40" /></a>
 <a href="https://instagram.com/kubrallkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kubrallkn" height="30" width="40" /></a>
 </p>
 
